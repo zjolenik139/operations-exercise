@@ -1,0 +1,14 @@
+C:\Users\zjole\Desktop\repos\Operations exersice\Operations excerise\Operations excerise\bin\Debug\netcoreapp3.1\Operations excerise.exe
+C:\Users\zjole\Desktop\repos\Operations exersice\Operations excerise\Operations excerise\bin\Debug\netcoreapp3.1\Operations excerise.deps.json
+C:\Users\zjole\Desktop\repos\Operations exersice\Operations excerise\Operations excerise\bin\Debug\netcoreapp3.1\Operations excerise.runtimeconfig.json
+C:\Users\zjole\Desktop\repos\Operations exersice\Operations excerise\Operations excerise\bin\Debug\netcoreapp3.1\Operations excerise.runtimeconfig.dev.json
+C:\Users\zjole\Desktop\repos\Operations exersice\Operations excerise\Operations excerise\bin\Debug\netcoreapp3.1\Operations excerise.dll
+C:\Users\zjole\Desktop\repos\Operations exersice\Operations excerise\Operations excerise\bin\Debug\netcoreapp3.1\Operations excerise.pdb
+C:\Users\zjole\Desktop\repos\Operations exersice\Operations excerise\Operations excerise\obj\Debug\netcoreapp3.1\Operations excerise.csproj.AssemblyReference.cache
+C:\Users\zjole\Desktop\repos\Operations exersice\Operations excerise\Operations excerise\obj\Debug\netcoreapp3.1\Operations excerise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zjole\Desktop\repos\Operations exersice\Operations excerise\Operations excerise\obj\Debug\netcoreapp3.1\Operations excerise.AssemblyInfoInputs.cache
+C:\Users\zjole\Desktop\repos\Operations exersice\Operations excerise\Operations excerise\obj\Debug\netcoreapp3.1\Operations excerise.AssemblyInfo.cs
+C:\Users\zjole\Desktop\repos\Operations exersice\Operations excerise\Operations excerise\obj\Debug\netcoreapp3.1\Operations excerise.csproj.CoreCompileInputs.cache
+C:\Users\zjole\Desktop\repos\Operations exersice\Operations excerise\Operations excerise\obj\Debug\netcoreapp3.1\Operations excerise.dll
+C:\Users\zjole\Desktop\repos\Operations exersice\Operations excerise\Operations excerise\obj\Debug\netcoreapp3.1\Operations excerise.pdb
+C:\Users\zjole\Desktop\repos\Operations exersice\Operations excerise\Operations excerise\obj\Debug\netcoreapp3.1\Operations excerise.genruntimeconfig.cache
