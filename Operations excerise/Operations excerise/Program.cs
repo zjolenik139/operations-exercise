@@ -6,12 +6,12 @@ namespace Operations_excerise
     {
         static void Main(string[] args)
         {
-            //Console.WriteLine(Add(5,4));
-            //Console.WriteLine(Sub(3,2));
-            //Console.WriteLine(Multiply(5,10));
-            //Console.WriteLine(Divide(8,4));
-            //Console.WriteLine(Modulus(4,2));
-            //Console.WriteLine("Hello World!");
+            Console.WriteLine(Methods.Add(5,4));
+            Console.WriteLine(Methods.Sub(3,2));
+            Console.WriteLine(Methods.Multiply(5,10));
+            Console.WriteLine(Methods.Divide(8,4));
+            Console.WriteLine(Methods.Modulus(4,2));
+            Console.WriteLine("Hello World!");
             
             
             int a = 17;
@@ -21,7 +21,7 @@ namespace Operations_excerise
             if (a == 17 && b == 4)
 
             
-           // Console.WriteLine($"{a} divided by {b} is {quotient} remainder {remainder}");
+           Console.WriteLine($"{a} divided by {b} is {quotient} remainder {remainder}");
 
             Console.WriteLine("Please enter the radius of your circle:");
             var userInput = Console.ReadLine();
